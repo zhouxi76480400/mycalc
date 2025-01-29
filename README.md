@@ -2,15 +2,13 @@
 
 My Calendar
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About App
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Reason for writing this app.
+1. Learn how to create layouts in Flutter.
+2. Study how a Flutter app runs and how its lifecycle works.
+3. Try calling an operating system’s native library using Flutter code.
+4. Get familiar with commonly used libraries in Flutter and Dart.
