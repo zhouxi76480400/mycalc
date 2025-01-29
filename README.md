@@ -8,15 +8,14 @@ My Calendar
 ### Screenshot on Android devices
 
 <div>
-    <tr>
-        <td>
-            <img src="./readme/a4.png" width="40%"/>
-            Android
-        </td>
-            <img src="./readme/ios1.png" width="40%"/>
-            iOS
-        <td>
-    </tr>
+    <figure>
+        <img src="./readme/a4.png" width="40%"/>
+        <figcaption>Android</figcaption>
+    </figure>
+    <figure>
+        <img src="./readme/ios1.png" width="40%"/>
+        <figcaption>iOS</figcaption>
+    </figure>
 </div>
 <div>
 <img src="./readme/a1.png" width="40%"/>
