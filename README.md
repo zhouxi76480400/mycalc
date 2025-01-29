@@ -7,8 +7,8 @@ My Calendar
 
 ### Screenshot on Android devices
 
-<img src="./readme/a1.png" width="60%"/>
-<img src="./readme/a2.png" width="60%"/>
+<img src="./readme/a1.png" width="50%"/>
+<img src="./readme/a2.png" width="50%"/>
 
 ## Reason for writing this app
 1. Learn how to create layouts in Flutter.
