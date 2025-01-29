@@ -5,18 +5,17 @@ My Calendar
 
 ## About App
 
-### Screenshot on Android devices
+### Screenshots
 
-<div>
-    <tr>
-        <img src="./readme/a4.png" width="40%"/>
-        <br>Android</br>
-    </tr>
-    <tr>
-        <img src="./readme/ios1.png" width="40%"/>
-        <br>iOS</br>
-    </tr>
-</div>
+#### Home
+##### Android
+    <img src="./readme/a4.png" width="40%"/>
+##### iOS
+    <img src="./readme/ios1.png" width="40%"/>
+
+
+
+
 <div>
 <img src="./readme/a1.png" width="40%"/>
 <img src="./readme/ios2.png" width="40%"/>
