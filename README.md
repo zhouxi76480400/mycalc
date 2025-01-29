@@ -10,11 +10,11 @@ My Calendar
 <div>
     <figure>
         <img src="./readme/a4.png" width="40%"/>
-        <figcaption>Android</figcaption>
+        <br>Android</br>
     </figure>
     <figure>
         <img src="./readme/ios1.png" width="40%"/>
-        <figcaption>iOS</figcaption>
+        <br>iOS</br>
     </figure>
 </div>
 <div>
