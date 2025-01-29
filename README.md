@@ -5,12 +5,10 @@ My Calendar
 
 ## About App
 
-# Screenshot on Android devices
+### Screenshot on Android devices
 
-![Image text](./readme/a1.png)
-
-![Image text](./readme/a2.png)
-
+<img src="./readme/a1.png" width="60%"/>
+<img src="./readme/a2.png" width="60%"/>
 
 ## Reason for writing this app
 1. Learn how to create layouts in Flutter.
