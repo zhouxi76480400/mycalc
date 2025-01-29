@@ -8,9 +8,7 @@ My Calendar
 
 ### Home
 <img src="./readme/a4.png" width="40%"/>
-    <h5>Android</h5>
 <img src="./readme/ios1.png" width="40%"/>
-    <h5>iOS</h5>
 
 
 
