@@ -7,7 +7,15 @@ My Calendar
 
 ### Screenshot on Android devices
 
+<div>
+<img src="./readme/a4.png" width="40%"/>
+<img src="./readme/ios1.png" width="40%"/>
+</div>
+<div>
 <img src="./readme/a1.png" width="40%"/>
+<img src="./readme/ios2.png" width="40%"/>
+</div>
+
 <img src="./readme/a2.png" width="40%"/>
 <img src="./readme/a3.png" width="40%"/>
 
